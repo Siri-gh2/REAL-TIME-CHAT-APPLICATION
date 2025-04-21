@@ -84,3 +84,5 @@ Team Collaboration: Tools like Slack, Microsoft Teams, and Discord help teams co
 Online Gaming: Real-time chat is often embedded in online multiplayer games, allowing players to communicate during gameplay.
 
 Conclusion: a real-time chat application is a sophisticated platform designed to facilitate instant, secure, and interactive communication. Its core features, such as instant messaging, user authentication, message history, and security, provide users with a seamless and engaging experience. With the right combination of frontend and backend technologies, real-time chat apps are transforming the way people connect, collaborate, and communicate online.
+OUTPUT: 
+![Image](https://github.com/user-attachments/assets/e50e5c06-cb22-4d95-b6d9-fdb77f6e0778)
